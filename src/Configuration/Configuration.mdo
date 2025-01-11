@@ -40,4 +40,5 @@
   </languages>
   <constants>Constant.Константа</constants>
   <catalogs>Catalog.Справочник</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
